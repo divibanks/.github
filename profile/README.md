@@ -24,6 +24,7 @@ These are plugins that allow WordPress users to add features to their websites f
 | [WP Triage](https://github.com/wpcorner/wp-triage) | An issue tracker for things that haven't gone to plan. | Under development |
 | [Search Engines Blocked in Header](https://github.com/wpcorner/search-engines-blocked-in-header) | ADisplay the 'Search Engines Discouraged' (or any translation) notification in the WordPress Toolbar if blog_public option has been checked.. | Live |
 | [Quick Event Calendar](https://github.com/wpcorner/quick-event-calendar) | A very simple, performant and WordPress-integrated event calendar plugin. | Live |
+| [Schedulify](https://github.com/wpcorner/schedulify) | WordPress plugin that automatically publishes all the scheduled posts missed by WordPress cron. | Under development |
 
 ## Contribution guidelines
 
